@@ -1,6 +1,10 @@
 
 # TherapistApp
 
+## Report
+
+https://docs.google.com/document/d/1nJxhmRszxCrqaB9y2LdP7unc4cig4nmNvLYtBP6xs1w/edit?usp=sharing
+
 ## Installs
 
 Node and npm - https://nodejs.org/en/ - requirement
