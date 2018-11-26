@@ -9,7 +9,8 @@ https://docs.google.com/document/d/1nJxhmRszxCrqaB9y2LdP7unc4cig4nmNvLYtBP6xs1w/
 
 Node and npm - https://nodejs.org/en/ - requirement
 
-I have installed everything using npm. So you need to download npm globally using this command on mac: npm install npm@latest -g
+I have installed everything using npm. 
+So you need to download npm globally using this command on mac: npm install npm@latest -g
 
 Visual Studio Code - https://code.visualstudio.com/ - you can use this to view your code.
 
