@@ -8,7 +8,9 @@ Node and npm - https://nodejs.org/en/ - requirement
 I have installed everything using npm. So you need to download npm globally using this command on mac: npm install npm@latest -g
 
 Visual Studio Code - https://code.visualstudio.com/ - you can use this to view your code.
+
 Android Studio - https://developer.android.com/studio/ - for android emulator (an emulator can be installed via command line aswell)
+
 Xcode - https://developer.apple.com/xcode/ - for ios emulator
 
 ## Download
