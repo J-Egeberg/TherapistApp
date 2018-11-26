@@ -20,12 +20,22 @@ export default class Login extends Component {
                     />    
                 </View>
                 <View style={styles.formContainer}>    
-                    <TextInput style={styles.input} placeholder="Username/Brugernavn" returnKeyType="next" onSubmitEditing={()=> this.passwordInput.focus()}>
+                    <TextInput 
+                    style={styles.input} 
+                    placeholder="Username/Brugernavn" 
+                    returnKeyType="next" 
+                    onSubmitEditing={()=> this.passwordInput.focus()}>
                     </TextInput>
-                    <TextInput style={styles.input} placeholder="Password/Kodeord" secureTextEntry returnKeyType="go" ref={(input)=>this.passwordInput = input}>
+                    <TextInput 
+                    style={styles.input} 
+                    placeholder="Password/Kodeord" 
+                    secureTextEntry returnKeyType="go" 
+                    ref={(input)=>this.passwordInput = input}>
                     </TextInput>
                     <TouchableOpacity style={styles.buttonContainer}>
-                        <Text style={styles.buttonText} onPress={()=>this.props.navigation.navigate('TodayScreen')}>Login</Text>
+                        <Text 
+                        style={styles.buttonText} 
+                        onPress={()=>this.props.navigation.navigate('TodayScreen')}>Login</Text>
                     </TouchableOpacity>
                 </View>
             </KeyboardAvoidingView>
