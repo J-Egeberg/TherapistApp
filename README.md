@@ -35,8 +35,6 @@ npm install --save react-navigation
 
 npm install --save react-native-calendars
 
-npm i schedule@0.4.0 --save-dev
-
 npm install
 
 ## Run
