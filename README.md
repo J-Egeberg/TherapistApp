@@ -12,13 +12,13 @@ Android Studio - https://developer.android.com/studio/ - for android emulator (a
 Xcode - https://developer.apple.com/xcode/ - for ios emulator
 
 ## Download
-This guide is only for mac users. you might need to add a few changes to your commands if you are a pc user.
+This guide is mainly made for mac users because all of my colleagues have mac aswell. you might need to add a few changes to your commands if you are a pc user.
 Download this project and cd into the root directory.
 In your root directory you have to install node_modules locally by running "npm install". This will install your basic libraries.
 
 ## Libraries
 
-We have to get some more libraries:
+We have to get some more libraries, run theese commands in your terminal:
 
 npm i react-native-splash-screen --save
 
@@ -27,6 +27,8 @@ react-native link react-native-splash-screen
 npm install --save react-navigation
 
 npm install --save react-native-calendars
+
+npm install
 
 ## Run
 
